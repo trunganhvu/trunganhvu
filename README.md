@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 🙂, I'm Trung Anh</h1>
+
+<h1 align="center">Hi there 👋, I'm Trung Anh</h1>
 <h3 align="center">Experienced with Full Stack Java Development, Tools Making and Automation Testing</h3>
 
 <h4 align="center">Java Developer with vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with IT fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
