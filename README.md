@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm Trung Anh</h1>
+<p align="center"> Independence – Freedom – Happiness</p>
 <h3 align="center">Experienced with Full Stack Java Development, Tools Making and Automation Testing</h3>
 
 <h4 align="center">Java Developer with vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with IT fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
 
-<!--
-**trunganhvu/trunganhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **trunganhvu/trunganhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,11 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**trunganhvu/trunganhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 Please have a look to my Digital Protfolio : https://trunganhvu.github.io/cvweb/
 - 💬 How to reach me on LinkedIn : https://www.linkedin.com/in/trung-anh-836101188/
+
+
+Independence – Freedom – Happiness
+
+🔗 **Connect with me:**
+
+<a href="https://www.linkedin.com/in/trung-anh-836101188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trunganh" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/ivfx4nFOCtQd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="trunganh" height="30" width="40" /></a>
 
 
 💻 *Languages and Tools:* 🛠️<br>
