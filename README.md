@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 - 🔭 Please have a look to my Digital Protfolio : https://trunganhvu.github.io/cvweb/
 - 💬 How to reach me on LinkedIn : https://www.linkedin.com/in/trung-anh-836101188/
+- 🤔 How to reach me on Leetcode : https://leetcode.com/u/trunganhvu/
 
 
 Independence – Freedom – Happiness
