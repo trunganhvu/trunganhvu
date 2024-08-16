@@ -72,8 +72,7 @@ Independence – Freedom – Happiness
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/P66CJZEJ6C9R">
         <img alt="Building Scalable Java Microservices with Spring Boot and Spring Cloud" title="Building Scalable Java Microservices with Spring Boot and Spring Cloud" 
-        src="certificates/Building Scalable Java Microservices with Spring Boot and Spring Cloud
-.jpeg" width="300px" />
+        src="certificates/Building Scalable Java Microservices with Spring Boot and Spring Cloud.jpeg" width="300px" />
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/MC2ZPAFXB49T">
         <img alt="Advanced React" title="Advanced React" 
