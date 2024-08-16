@@ -55,4 +55,32 @@ Independence – Freedom – Happiness
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-<!-- ## 🏆 Github Status
+
+
+<h1 align="left">Certificates:</h1>
+<p align="center">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/FD33SMONFFXL">
+        <img alt="Web Technologies and Security" title="Web Technologies and Security" 
+            src="certificates/Web Technologies and Security.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/3ZNRSYLHJMNJ">
+        <img alt="Play It Safe: Manage Security Risks" title="Play It Safe: Manage Security Risks" src="certificates/Play It Safe Manage Security Risks.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/7EHKNLRVK2H2">
+        <img alt="Foundations of Cybersecurity" title="Foundations of Cybersecurity" 
+        src="certificates/Foundations of Cybersecurity.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/P66CJZEJ6C9R">
+        <img alt="Building Scalable Java Microservices with Spring Boot and Spring Cloud" title="Building Scalable Java Microservices with Spring Boot and Spring Cloud" 
+        src="certificates/Building Scalable Java Microservices with Spring Boot and Spring Cloud
+.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/MC2ZPAFXB49T">
+        <img alt="Advanced React" title="Advanced React" 
+        src="certificates/Advanced React.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/HCQ54RT27JGR">
+        <img alt="React Basics" title="React Basics" 
+        src="certificates/React Basics.jpeg" width="300px" />
+    </a>
+</p>
