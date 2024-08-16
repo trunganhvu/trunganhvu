@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Trung Anh</h1>
-<p align="center"> Independence – Freedom – Happiness</p>
+<p align="center">Independence – Freedom – Happiness</p>
 <h3 align="center">Experienced with Full Stack Java Development, Tools Making and Automation Testing</h3>
 
 <h4 align="center">Java Developer with vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with IT fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - 🔭 Please have a look to my Digital Protfolio : https://trunganhvu.github.io/cvweb/
 - 💬 How to reach me on LinkedIn : https://www.linkedin.com/in/trung-anh-836101188/
 - 🤔 How to reach me on Leetcode : https://leetcode.com/u/trunganhvu/
-
-
-Independence – Freedom – Happiness
 
 🔗 **Connect with me:**
 
