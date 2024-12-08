@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 Here are some ideas to get you started:
-- 🔭 Please have a look to my Digital Protfolio : https://trunganhvu.github.io/cvweb/
+- 🔭 Please have a look to my Digital Protfolio : https://trunganhvu.github.io/
 - 💬 How to reach me on LinkedIn : https://www.linkedin.com/in/trung-anh-836101188/
 - 🤔 How to reach me on Leetcode : https://leetcode.com/u/trunganhvu/
 
@@ -71,6 +71,22 @@ Here are some ideas to get you started:
         <img alt="Building Scalable Java Microservices with Spring Boot and Spring Cloud" title="Building Scalable Java Microservices with Spring Boot and Spring Cloud" 
         src="certificates/Building Scalable Java Microservices with Spring Boot and Spring Cloud.jpeg" width="300px" />
     </a>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/81BPBQU93EJO">
+        <img alt="Introduction to Front-End Development" title="Introduction to Front-End Development" 
+        src="certificates/Introduction to Front-End Development.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/81BPBQU93EJO">
+        <img alt="Programming with JavaScript" title="Programming with JavaScript" 
+        src="certificates/Programming with JavaScript.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/81BPBQU93EJO">
+        <img alt="Version Control" title="Version Control" 
+        src="certificates/Version Control.jpeg" width="300px" />
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/0EXYMN563VWI">
+        <img alt="HTML and CSS in depth" title="HTML and CSS in depth" 
+        src="certificates/HTML_CSS_depth.jpeg" width="300px" />
+    </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/MC2ZPAFXB49T">
         <img alt="Advanced React" title="Advanced React" 
         src="certificates/Advanced React.jpeg" width="300px" />
@@ -79,4 +95,7 @@ Here are some ideas to get you started:
         <img alt="React Basics" title="React Basics" 
         src="certificates/React Basics.jpeg" width="300px" />
     </a>
+    
+    
+    
 </p>
